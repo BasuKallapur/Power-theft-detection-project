@@ -47,8 +47,11 @@ bool theftDetected = false;         // Theft detection status
 bool powerCutoff = false;           // Power cutoff state
 
 // WiFi and WebServer Configuration
-const char *ssid = "motoedge50fusion_8989"; // Replace with your WiFi SSID
-const char *password = "@12345678";         // Replace with your WiFi password
+// const char *ssid = "motoedge50fusion_8989"; // Replace with your WiFi SSID
+// const char *password = "@12345678";         // Replace with your WiFi password
+
+const char *ssid = "unnathi 2.4G"; // Replace with your WiFi SSID
+const char *password = "8217566789";         // Replace with your WiFi password
 
 // Hardcoded location information
 const float latitude = 12.941933; // nandi aroma
