@@ -2,6 +2,8 @@
 
 A smart IoT-based power theft detection system using ESP32 and current sensors with a real-time web dashboard.
 
+Demo Video: [Watch Demo](https://drive.google.com/drive/folders/1ssZexdgxhFqKzHugFqWw-XPR635nFloX?usp=sharing)
+
 ## Overview
 
 This system detects power theft by comparing current readings between input and load lines. When theft is detected (measured by a significant difference between input and load current), the system alerts users through a web dashboard. Users can then manually cut off power or restore it remotely from anywhere with internet access.
